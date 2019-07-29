@@ -1,0 +1,3 @@
+#! /bin/bash
+
+sudo sshfs -o allow_other storage@storage-server:cloud-storage/Media/Music /mnt/music
