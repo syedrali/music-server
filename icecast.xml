@@ -1,3 +1,5 @@
+<queue-size>1048576</queue-size>
+
 <mount>
   <mount-name>/mopidy</mount-name>
   <fallback-mount>/silence.mp3</fallback-mount>
