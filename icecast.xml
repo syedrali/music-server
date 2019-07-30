@@ -1,4 +1,6 @@
-<queue-size>1048576</queue-size>
+<queue-size>2097152</queue-size>
+
+<burst-on-connect>0</burst-on-connect>
 
 <mount>
   <mount-name>/mopidy</mount-name>
